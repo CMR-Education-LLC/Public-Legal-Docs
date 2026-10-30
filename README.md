@@ -16,5 +16,6 @@ Base: `https://cmr-education-llc.github.io/Public-Legal-Docs/`
 - Privacy Policy: `.../legal/privacy-policy.html`
 - Terms of Service: `.../legal/terms-of-service.html`
 - COPPA Direct Notice: `.../legal/coppa-direct-notice.html`
+- Delete your account: `.../legal/delete-account.html`
 
 Use these URLs in App Store Connect, Google Play, and the app.
